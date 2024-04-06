@@ -10,40 +10,13 @@ In line with this purpose, the repository content will encompass not only quantu
 
 ## 📜Contents
 
+The studies to be carried out within the scope of the department are stated below. The specified headings are the main headings and these main headings will be divided into headings within themselves. Only main headings are stated here, and subheadings are not listed for easy follow-up for the reader.
+
 ### Section 1: Quantum Mechanics and Fundamentals
-
-1. **History and Basic Concepts of Quantum Mechanics**
-
-2. **Basic Concepts of Quantum Mechanics**
-
-
-3. **Mathematical Formulation of Quantum Mechanics**
-
-4. **Quantum Computation Theory**
-
-
-5. **Quantum Mechanics and Information Theory**
-
 
 ###  Section 2: Quantum Computation and Advanced Topics
 
-1. **Quantum States and Mathematical Formulations**
-
-
-2. **Dynamics of Quantum Mechanical Systems**
-
-
-3. **Quantum Computer Models and Foundations**
-
-
-4. **Mathematical Principles for Quantum Algorithms**
-
-
-5. **Theoretical Analyses of Quantum Algorithms**
-
-
-6. **Open Questions and Theoretical Challenges in Quantum Computing**
-
+### Section 3: Quantum Decoherence and Error Correction Codes
 
 ## 💡 Contribution
 
