@@ -1,6 +1,4 @@
-Tabii, işte İngilizce olarak düzenlenmiş README:
 
----
 
 # Detailed Quantum Theory
 
