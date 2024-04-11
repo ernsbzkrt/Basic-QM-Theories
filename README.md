@@ -14,9 +14,7 @@ The studies to be carried out within the scope of the department are stated belo
 
 ### Section 1: Quantum Mechanics and Fundamentals
 
-###  Section 2: Quantum Computation and Advanced Topics
-
-### Section 3: Quantum Decoherence and Error Correction Codes
+###  Section 2: Quantum Decoherence and Error Correction Codes
 
 ## 💡 Contribution
 
