@@ -6,10 +6,15 @@
 ## ⚛️Introduction
 **The topics to be examined within this section are listed below. Each topic will be discussed in depth under its own heading:**
 
-- Quantum Computing Models: Circuit-Based Quantum Computers and Quantum Turing Machines
-- Quantum Gates and Circuits: Basic Logical Gates, Quantum Fourier Transform
-- Introductory Quantum Computing Algorithms: Deutsch-Jozsa, Grover, and Shor Algorithms
-- Superiority of Quantum Computation over Classical Computation
+- What are Quantum Computer Models?
+
+- What are Quantum Gates and Circuits?
+
+- What is a Quantum Turing Machine?
+
+- What are the Basics of Quantum Computing?
+
+- Research Methods and Challenges
 
 ## 🤝Contributing
 *Contributions are welcome! Feel free to fork this repository, make your changes, and submit a pull request.*
